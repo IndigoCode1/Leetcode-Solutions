@@ -15,3 +15,5 @@ class Solution:
             first_dict[c] -= 1
 
         return True
+    
+# This solution has time complexity of O(n) and space complexity of O(1)
